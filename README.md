@@ -23,7 +23,7 @@ Please do your own basic calibration needed.
 3. Acceleration 
 4. Junction Deviation 
 5. Mesh bed 
-6. tc
+6. etc
 
 
 ThinkerS Marlin2.0.7 Doc.rtf is a documentation of what I have changed in Marlin. 
